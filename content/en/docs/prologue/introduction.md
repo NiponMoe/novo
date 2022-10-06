@@ -50,7 +50,7 @@ Japonês definitivamente é bem mais difícil do que inglês ou espanhol, pois �
 
 Sendo assim, sua sensação de aprendizado será parecido com o gráfico abaixo:
 
-![grafico](https://youtrading.com/pt/wp-content/uploads/2021/04/027-Sexta-Curva-de-Aprendizado-02-min.png)
+![gra](/gra.png 'gra')
 
 No qual nas primeiras semanas de aprendizados onde aprendeu hiragana & katakana e um básico de grámatica sentirá sua confinça quase no 100%, mas assim que tentar ler uma obra que tenha vontade ou avançar nos tópicos de grámatica, sentirá cada vez menos confiança no idioma até chegar em uma parte de desânimo total. Não desista, porque isso é normal e uma hora ou outra vai acontecer, e se você continuar mesmo nesse estado, uma hora sua confiancia volta a aumentar.  
 
