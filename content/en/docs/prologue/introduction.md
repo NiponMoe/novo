@@ -24,7 +24,7 @@ Então eu comecei a ter interesses pelas VNs(Visuais Novels), até que me deparo
 
 
 
-![rewrite](/static/rewrite.jpg 'rewrite') 
+![rewrite](/rewrite.jpg 'rewrite') 
 ## Primeiros passos
 
 Quando comecei a estudar de fato, lembro de não haver um lugar unificando todos os materiais e ferramentas como [TheMoeWay](https://learnjapanese.moe/) (algo que me deu inspiração para fazer esse guia). Então antes de começar os meus estudos tive que pesquisar bastante e testar diferentes coisas. Além disso, os modelos de ensino mais óbvios era pagar algum curso de japonês, no qual tenho uma visão bem cética sobre. Principalmente pela propaganda exagerada de "aprenda japonês em 3 meses" ou por nunca ter visto uma pessoa que realmente entendia japonês ter dita que fez alguns desses cursos.
