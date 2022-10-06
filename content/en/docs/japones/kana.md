@@ -16,10 +16,10 @@ toc: true
 
 ## Introdução
 
-![angel](https://s2.vndb.org/sf/75/84175.jpg)
+![angel](ab1.jpg)
 Como já explicado anteriormente, o japonês tem 3 alfabetos(hiragana, katakana e kanji), porém você deve estar se perguntando como é usado em textos normais, pois bem da seguinte forma:
 
-![exemplo](https://i.imgur.com/qgzMN0n.png)
+![exemplo](ab2.png)
 
 Símbulos em vermelho -> Hiragana
 
@@ -31,7 +31,7 @@ Símbulos em verde -> Kanji
 
 Kana é referente ao Hiragana e Katakana que são dois sistemas silábicos do japonês, no qual cada simbolo tem algum som (ao todo, são 46 Hiragana e 50 Katakana). 
 
-![hiragana](https://i.pinimg.com/564x/28/c2/71/28c2718a31cba8d98c778325c3b0f398--japanese-language-learning-learning-japanese.jpg)
+![hiragana](kana.jpg)
 
 Além disse, há uma leve variação no som dos kanas se acrescentar um traço か(ka) -> が(ga) ou uma bolinha は(ha) -> ぱ(pa). São bem parecidos com os acentos da nossa língua.
 

@@ -24,7 +24,7 @@ Então eu comecei a ter interesses pelas VNs(Visuais Novels), até que me deparo
 
 
 
-![imagem](https://puu.sh/1X1Rx.jpg)
+![imagem](rewrite.jpg)
 ## Primeiros passos
 
 Quando comecei a estudar de fato, lembro de não haver um lugar unificando todos os materiais e ferramentas como [TheMoeWay](https://learnjapanese.moe/) (algo que me deu inspiração para fazer esse guia). Então antes de começar os meus estudos tive que pesquisar bastante e testar diferentes coisas. Além disso, os modelos de ensino mais óbvios era pagar algum curso de japonês, no qual tenho uma visão bem cética sobre. Principalmente pela propaganda exagerada de "aprenda japonês em 3 meses" ou por nunca ter visto uma pessoa que realmente entendia japonês ter dita que fez alguns desses cursos.
@@ -50,7 +50,7 @@ Japonês definitivamente é bem mais difícil do que inglês ou espanhol, pois �
 
 Sendo assim, sua sensação de aprendizado será parecido com o gráfico abaixo:
 
-![grafico](https://youtrading.com/pt/wp-content/uploads/2021/04/027-Sexta-Curva-de-Aprendizado-02-min.png)
+![grafico](gra.png)
 
 No qual nas primeiras semanas de aprendizados onde aprendeu hiragana & katakana e um básico de grámatica sentirá sua confinça quase no 100%, mas assim que tentar ler uma obra que tenha vontade ou avançar nos tópicos de grámatica, sentirá cada vez menos confiança no idioma até chegar em uma parte de desânimo total. Não desista, porque isso é normal e uma hora ou outra vai acontecer, e se você continuar mesmo nesse estado, uma hora sua confiancia volta a aumentar.  
 
